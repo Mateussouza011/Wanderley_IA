@@ -6,4 +6,4 @@ Sidevalto Capone
 Victor Hugo Brito Coelho
 Marcelo Alcantara
 Henrique dos Santos
-Daniel
+Daniel Corrêa Rufo
