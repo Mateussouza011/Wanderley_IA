@@ -6,3 +6,4 @@ Victor Hugo Brito Coelho
 Marcelo Alcantara
 Henrique dos Santos
 Daniel Corrêa Rufo
+Sidevalto Cipriano Capone
