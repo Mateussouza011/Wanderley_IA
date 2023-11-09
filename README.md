@@ -1,9 +1,9 @@
 # Wanderley_IA
 Alunos:
-mateus souza araujo
-jose emanuel dourado
-sidevalto capone
-victor hugo brito coelho
-marcelo alcantara
-henrique dos santos
-daniel
+Mateus Souza Araujo
+Jose Emanuel Dourado
+Victor Hugo Brito Coelho
+Marcelo Alcantara
+Henrique dos Santos
+Daniel Corrêa Rufo
+Sidevalto Cipriano Capone
